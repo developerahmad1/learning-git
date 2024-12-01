@@ -1,2 +1,2 @@
 # Learingn Git
-i learn the git bu sharda khapra
+i learn the git by sharda khapra
